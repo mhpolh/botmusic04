@@ -1,6 +1,6 @@
 token=NTUxMDM0ODg3NjM4MDg5NzM4.D1rGzw._EAu7zdb_Z5ZO0xeppY5sGkOf10
 owner=476958270175838222
-prefix= 4m
+prefix= 4M
 game=
 stayinchannel=true
 songinstatus=false
